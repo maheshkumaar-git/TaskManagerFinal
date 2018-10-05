@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\obj\Release\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\obj\Release\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.BusinessLayer\obj\Release\TaskManager.BusinessLayer.pdb

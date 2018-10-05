@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\bin\Release\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\bin\Release\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\bin\Release\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\bin\Release\EntityFramework.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\bin\Release\EntityFramework.xml
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\obj\Release\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\obj\Release\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.DataLayer\obj\Release\TaskManager.DataLayer.pdb

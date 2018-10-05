@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.NBench.Test.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.NBench.Test.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\NBench.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\obj\Debug\TaskManager.NBench.Test.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\obj\Debug\TaskManager.NBench.Test.dll
+C:\Users\Admin\Desktop\TaskManager-master\TaskManager.NBench.Test\obj\Debug\TaskManager.NBench.Test.pdb
